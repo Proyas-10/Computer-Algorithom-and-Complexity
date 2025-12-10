@@ -52,3 +52,5 @@ Kruskal’s Minimum Spanning Tree
 Articulation Point
 
 Connected Components
+
+Instructor : Pritwiraj Bhattacharja
